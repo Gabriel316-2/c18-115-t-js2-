@@ -1,0 +1,229 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PetHome</title>
+  <link href="npm/bootstrap%405.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <link rel="shortcut icon" href="assets/logo-pethome4.svg" type="image/x-icon">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style2.css">
+</head>
+<body class="estilo-personalizado container-personalizado">
+  <nav class="navbar navbar-expand-sm bg-body-tertiary" data-bs-theme="dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html"><img src="assets/logo-pethome4.svg" alt="pet-home" width="35px" height="35px"></a>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Adopciones</a>
+            <ul class="dropdown-menu">
+              <li>
+                <a class="dropdown-item" href="adoptar-perros.php.html">Adoptar perros</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="adoptar-gatos.php.html">Adoptar gatos</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="formulario.php.html">Dar en adopción</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Articulos</a>
+            <ul class="dropdown-menu">
+              <li>
+                <a class="dropdown-item" href="consejo-uno.html">Consejos</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="historia-uno.html">Historias</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Ayudanos</a>
+            <ul class="dropdown-menu">
+              <li>
+                <a class="dropdown-item" href="publicitar.html">Publicitar</a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="como-colaborar.html">¿Cómo colaborar?</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="sobre-nosotros.html">Sobre Nosotros</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav><br>
+  <br>
+  <br>
+  
+  <section class="d-flex justify-content-center">
+  <div class="card col-sm5 p-3">
+                
+        <div class="mb-3">
+        <form action="phpmailerperros.php" method="post" enctype="multipart/form-data">
+          <h2 class="text-center mb-3">Solicitud de Adopción</h2>
+          <img src="assets/logo-pethome4.svg" alt="logo-pet-home1" class="logo-img mb-3">
+          <p class="mb-3">
+            Por favor, complete este formulario para que analicemos su solicitud
+            de adopción.
+          </p>
+          <h4 class="mb-3">Datos Personales</h4>
+          <div class="mb-3">
+            <label for="nombre-adopcion" class="form-label">Nombre completo</label>
+            <input type="text" class="form-control" id="nombre-adopcion" placeholder="Nombre y Apellido" pattern="[A-Za-z]+" required="">
+            <div class="invalid-feedback">
+              El formato no es válido. Sólo usar letras de A-Z mayúsculas o
+              minúsculas
+            </div>
+          </div>
+          <div class="mb-3">
+            <label for="rubro-publicitar" class="form-label">Ocupación</label>
+            <input type="text" class="form-control" id="rubro-publicitar" placeholder="Ej: Venta de alimento para mascotas" pattern="[A-Za-z]+" required="">
+            <div class="invalid-feedback">
+              El formato no es válido. Sólo usar letras de A-Z mayúsculas o
+              minúsculas
+            </div>
+          </div>
+          <div class="mb-3">
+            <label for="localidad-adopcion" class="form-label">Localidad</label>
+            <input type="text" class="form-control" id="localidad-adopcion" placeholder="Ej: Devoto" pattern="[A-Za-z]+" required="">
+            <div class="invalid-feedback">
+              El formato no es válido. Sólo usar letras de A-Z mayúsculas o
+              minúsculas
+            </div>
+          </div>
+          <div class="mb-3">
+            <label for="calle-adopcion" class="form-label">Calle y número</label>
+            <input type="text" class="form-control" id="calle-adopcion" placeholder="Ej: Av Constituyentes 4500" required="">
+            <div class="invalid-feedback">Este campo es obligatorio</div>
+          </div>
+          <h4 class="mb-3">Contacto</h4>
+
+          <div class="mb-3">
+            <label for="telefono-adopcion" class="form-label">Teléfono</label>
+            <div class="input-group">
+              <span class="input-group-text" id="basic-addon1">+54 9 11</span>
+              <input type="text" class="form-control" id="telefono-adopcion" placeholder="Ej: 23242526" aria-label="Teléfono" aria-describedby="basic-addon1" pattern="\d{8}" maxlength="8" required="">
+              <div class="invalid-feedback">No es un formato válido</div>
+            </div>
+          </div>
+          <div class="mb-3">
+            <label for="mail-adopcion" class="form-label">Correo electrónico</label>
+            <input type="email" class="form-control" id="mail-adopcion" placeholder="ejemplo@mail.com" required="">
+            <div class="invalid-feedback">No es un formato válido</div>
+          </div>
+           <h4 class="mb-3">Información sobre la Mascota</h4>
+           <div class="mb-3">
+            <label for="nombre-animal" class="form-label">Nombre del animal que desea adoptar</label>
+          
+            <input type="text" class="form-control" id="nombre-animal" pattern="[A-Za-z]+" value="Ram" required="">
+            <div class="invalid-feedback">
+              El formato no es válido. Sólo usar letras de A-Z mayúsculas o
+              minúsculas
+            </div>
+          </div>
+          <div class="mb-3">
+            <label for="sexo" class="form-label">Sexo</label>
+            <input type="text" class="form-control" id="sexo" required="" value="Macho">
+          </div>
+          <div class="mb-3">
+            <label for="peso" class="form-label">Peso</label>
+            <input type="text" class="form-control" id="peso" value="5">
+          </div>
+          <div class="mb-3">
+    <label for="Edad" class="form-label">Edad</label>
+    <input type="text" class="form-control" id="Edad" value="2 meses">
+          </div>
+          
+          <h4 class="mb-3">Experiencia con Mascotas</h4>
+          <div class="mb-3">
+            <label for="experiencia-adopcion" class="form-label">¿Tiene experiencia en el cuidado de mascotas? Si es así,
+              mencione: ¿Qué especies?</label>
+            <textarea class="form-control" id="experiencia-adopcion" rows="3" placeholder="Ej: Si. Perros, 2; Gatos, 3" required=""></textarea>
+            <div class="invalid-feedback">Este campo es obligatorio.</div>
+          </div>
+          <div class="mb-3">
+            <label for="mascotas-actuales-adopcion" class="form-label">¿Actualmente tiene mascotas en casa? Si es así, mencione:
+              ¿Cuántas?¿Qué especies?</label>
+            <textarea class="form-control" id="mascotas-actuales-adopcion" rows="3" placeholder="Ej: Si. Un perro y un gato" required=""></textarea>
+            <div class="invalid-feedback">Este campo es obligatorio.</div>
+          </div>
+          <div class="mb-3">
+            <label for="visita-domiciliaria" class="form-label">¿Permitiría una visita domiciliaria previa a la adopción?</label>
+            <div class="mb-3 form-check">
+              <input name="visitas" type="radio" class="form-check-input" id="visitas-si-adopcion" value="si" required="">
+              <label class="form-check-label" for="visitas-si-adopcion">Si</label>
+            </div>
+            <div class="mb-3 form-check">
+              <input name="visitas" type="radio" class="form-check-input" id="visitas-no-adopcion" value="no" required="">
+              <label class="form-check-label" for="visitas-no-adopcion">No</label>
+              <div class="invalid-feedback">
+                Se requiere seleccionar una opción.
+              </div>
+            </div>
+            <h4 class="mb-3">Sobre el Hogar</h4>
+
+            <div class="mb-3">
+              <label for="patio-jardin-adopcion" class="form-label">¿Posee patio, jardín o balcón su vivienda? Si es así, mencione:
+                ¿cuál?</label>
+              <input type="text" class="form-control" id="patio-jardin-adopcion" placeholder="Ej: Si. Jardín grande con césped" required="">
+              <div class="invalid-feedback">Este campo es obligatorio.</div>
+            </div>
+
+            <div class="mb-3">
+              <label type="text" for="composicion-familia-adopcion" class="form-label">¿Cuántas personas viven en el hogar? ¿Qué edades?.</label>
+              <textarea type="text" class="form-control" id="composicion-familia-adopcion" row="3" placeholder="Ej: 4 personas, edades 5, 10, 35, 40" required=""></textarea>
+              <div class="invalid-feedback">Este campo es obligatorio.</div>
+            </div>
+            <div class="mb-3">
+              <label for="otras-caracteristicas-adopcion" class="form-label">Otras características o detalles que desee agregar.</label>
+              <textarea type="text" class="form-control" id="otras-caracteristicas-adopcion" row="3" placeholder="Añadir información adicional"></textarea>
+            </div>
+            <center><button type="submit" class="btn btn-primary">Enviar</button></center>
+          </div>
+        </form>
+      </div>
+    </div></section>
+    <br>
+  <footer class="container-fluid estilo-footer" id="footer">
+    <div class="row flex justify-content-center g-4">
+      <div class="col-md-4 text-center">
+        <h4 class="">Redes Sociales</h4>
+        <ul class="nav flex-column align-content-center mt-5">
+          <li class="ms-3">
+            <a class="link link-warning" href="https://www.facebook.com"><img src="assets/facebook-logo.svg" alt="logo facebook" width="30px" height=""> Pet Home</a>
+          </li>
+          <li class="ms-3 mt-2">
+            <a class="link link-warning" href="https://www.instagram.com"><img src="assets/Instagram_logo.webp" alt="logo instagram" width="30px" height=""> @pethome</a>
+          </li>
+          <li class="ms-3"><img class="mt-3" src="assets/logo-pethome3.svg" alt="logo instagram" width="" height="200px"></li>
+        </ul>
+      </div>
+      <div class="col-md-4 text-center">
+        <h4>Contacto</h4>
+        <ul class="nav flex-column align-content-center mt-5">
+          <li class="mb-2 p-0">- Atención Telefónica</li>
+          <li class="mb-2 p-0">0810-333-7479</li>
+          <li class="mb-2 p-0">- Atención Whatsapp</li>
+          <li class="mb-2 p-0">+54-11-3680-6389</li>
+          <li class="mb-2 p-0">- Lunes a Sábado de 9 a 21 horas</li>
+          <li class="mb-2 p-0">Domingo de 10 a 20 horas</li>
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <h4 class="text-center">Ubicación</h4>
+        <div class="d-flex justify-content-center pb-5">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.557755408214!2d-58.354222926358545!3d-34.66587006077963!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a33341aa63f633%3A0x5cade5099fcca01!2sDardo%20Rocha%20345%2C%20B1873BIH%20Crucecita%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina!5e0!3m2!1ses!2sve!4v1716447832029!5m2!1ses!2sve" width="300" height="250" class="ratio ratio-4x3 iframe-mapa" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="npm/bootstrap%405.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script> 
+  <script src="script.js"></script>
+</body>
+</html>

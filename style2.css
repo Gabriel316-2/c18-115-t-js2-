@@ -1,0 +1,57 @@
+.container py-5 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+}
+.card text-center {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  max-width: 300px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  flex-basis: calc(50% - 20px);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+.card-body {
+  padding: 15px;
+}
+.card-title {
+  margin: 0;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.card-text {
+  margin: 5px 0;
+  font-size: 1em;
+}
+.btn-adoptar {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 4px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+@media (max-width: 600px) {
+  .card {
+    flex-basis: 100%;
+  }
+}
+
+.logo-img {
+  width: 40px !important;
+  height: 40px !important;
+  display: block;
+  margin: 0 auto;
+}

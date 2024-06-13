@@ -1,0 +1,292 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\npm\bootstrap@5.3.3\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\npm\bootstrap@5.3.3\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://sibcine.sao.dom.my.id/adoptar-gatos.php
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\adoptar-gatos.php.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/adoptar-perros.php
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\adoptar-perros.php.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/assets/banner-publicitario.svg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\banner-publicitario.svg
+Content Type: image/svg+xml
+
+Uri: https://sibcine.sao.dom.my.id/assets/beautiful-cat-home.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\beautiful-cat-home.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/close-up-beautiful-dachshund-hugged-by-owner.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\close-up-beautiful-dachshund-hugged-by-owner.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/facebook-logo.svg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\facebook-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://sibcine.sao.dom.my.id/assets/familia-feliz-perro-al-aire-libre-full-shot.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\familia-feliz-perro-al-aire-libre-full-shot.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/foto-historia-cinco.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\foto-historia-cinco.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/foto-historia-cuatro.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\foto-historia-cuatro.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/foto-historia-dos.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\foto-historia-dos.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/foto-historia-seis.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\foto-historia-seis.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/foto-historia-tres.jpeg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\foto-historia-tres.jpeg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/foto-historia-uno.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\foto-historia-uno.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/gatos/cat-2346303_1280.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\gatos\cat-2346303_1280.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/gatos/cat-300572_1280.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\gatos\cat-300572_1280.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/gatos/cat-3336392_1280.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\gatos\cat-3336392_1280.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/gatos/cat-7438092_1280.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\gatos\cat-7438092_1280.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/Instagram_logo.webp
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\Instagram_logo.webp
+Content Type: image/webp
+
+Uri: https://sibcine.sao.dom.my.id/assets/logo-pethome3.svg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\logo-pethome3.svg
+Content Type: image/svg+xml
+
+Uri: https://sibcine.sao.dom.my.id/assets/logo-pethome4.svg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\logo-pethome4.svg
+Content Type: image/svg+xml
+
+Uri: https://sibcine.sao.dom.my.id/assets/perro-home.png
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\perro-home.png
+Content Type: image/png
+
+Uri: https://sibcine.sao.dom.my.id/assets/perros/boxer-8207572_1280.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\perros\boxer-8207572_1280.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/perros/dog-5357794_1280.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\perros\dog-5357794_1280.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/perros/foxhound-53951_1280.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\perros\foxhound-53951_1280.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/perros/images (1).jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\perros\images (1).jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/perros/images (2).jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\perros\images (2).jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/perros/images (4).jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\perros\images (4).jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/perros/images (6).jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\perros\images (6).jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/perros/puppy-5124947_1280.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\perros\puppy-5124947_1280.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/perros/rottweiler-2160307_1280.jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\perros\rottweiler-2160307_1280.jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/assets/sobre-nos-adopcion.png
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\sobre-nos-adopcion.png
+Content Type: image/png
+
+Uri: https://sibcine.sao.dom.my.id/assets/sobre-nos-ambiente.png
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\sobre-nos-ambiente.png
+Content Type: image/png
+
+Uri: https://sibcine.sao.dom.my.id/assets/sobre-nos-mision.png
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\sobre-nos-mision.png
+Content Type: image/png
+
+Uri: https://sibcine.sao.dom.my.id/assets/sobre-nos-vision.png
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\sobre-nos-vision.png
+Content Type: image/png
+
+Uri: https://sibcine.sao.dom.my.id/assets/sobre-nos-voluntarios.png
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\sobre-nos-voluntarios.png
+Content Type: image/png
+
+Uri: https://sibcine.sao.dom.my.id/assets/woman-holding-dog-medium-shot .jpg
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\assets\woman-holding-dog-medium-shot .jpg
+Content Type: image/jpeg
+
+Uri: https://sibcine.sao.dom.my.id/como-colaborar.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\como-colaborar.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/consejo-cuatro.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\consejo-cuatro.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/consejo-dos.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\consejo-dos.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/consejo-tres.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\consejo-tres.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/consejo-uno.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\consejo-uno.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php?nombre=Canela&sexo=Hembra&peso=3&Edad=5 meses
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php-7.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php?nombre=Coco&sexo=Macho&peso=5&Edad=4 a%EF%BF%BDos
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php-8.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php?nombre=Kiki&sexo=Hembra&peso=10&Edad=3 meses
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php-12.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php?nombre=Kuno&sexo=Macho&peso=2&Edad=1 mes
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php-13.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php?nombre=Liz&sexo=Hembra&peso=10&Edad=3 meses
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php-3.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php?nombre=Lomito&sexo=Masculino&peso=6&Edad=3 a%EF%BF%BDos
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php-2.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php?nombre=Nico&sexo=Macho&peso=2&Edad=1 mes
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php-4.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php?nombre=Pedro&sexo=Macho&peso=5&Edad=4 a%EF%BF%BDos
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php-5.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php?nombre=Pelusa&sexo=Hembra&peso=3&Edad=15 d%EF%BF%BDas
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php-9.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php?nombre=Pez&sexo=Macho&peso=8&Edad=7 a%EF%BF%BDos
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php-6.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php?nombre=Ram&sexo=Macho&peso=5&Edad=2 meses
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php-10.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php?nombre=Rayo&sexo=Masculino&peso=6&Edad=3 a%EF%BF%BDos
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php-11.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-adopcion.php?nombre=Tom&sexo=Macho&peso=5&Edad=2 meses
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-adopcion.php-1.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-publicitar.php
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-publicitar.php.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario-voluntariado.php
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario-voluntariado.php.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/formulario.php
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\formulario.php.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/historia-cinco.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\historia-cinco.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/historia-cuatro.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\historia-cuatro.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/historia-dos.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\historia-dos.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/historia-seis.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\historia-seis.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/historia-tres.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\historia-tres.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/historia-uno.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\historia-uno.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/index.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\index.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/publicitar.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\publicitar.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/script.js
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\script.js
+Content Type: application/javascript
+
+Uri: https://sibcine.sao.dom.my.id/script2.js
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\script2.js
+Content Type: application/javascript
+
+Uri: https://sibcine.sao.dom.my.id/sobre-nosotros.html
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\sobre-nosotros.html
+Content Type: text/html
+
+Uri: https://sibcine.sao.dom.my.id/style.css
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\style.css
+Content Type: text/css
+
+Uri: https://sibcine.sao.dom.my.id/style2.css
+File Name: C:\Downloaded Web Sites\sibcine.sao.dom.my.id\style2.css
+Content Type: text/css
+
